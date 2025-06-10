@@ -8,5 +8,6 @@ Free-Cursor是一个小巧的工具，用于重置和维持Cursor的Pro试用状
 5、项目现在适用windows，mac和linux过几天支持，cursor1.0版本以下都稳，0.46版本是最稳定的，过几天支持最新版1.0.0
 6、1.0.2版本已经支持重置时新加入阻止编辑器更新的功能
 7、1.0.3版本解决大家邮箱问题，新加入稳定邮箱获取的功能
-交流群：
-![qrcode_1749527543642](https://github.com/user-attachments/assets/65b4cb62-b8ea-4c0d-ad7a-c83daea54eab)
+交流群：![qrcode_1749574974739](https://github.com/user-attachments/assets/08100ee0-9f27-4f7a-93b2-1e7e8bd0e75a)
+
+
