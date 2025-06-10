@@ -9,4 +9,5 @@ Free-Cursor是一个小巧的工具，用于重置和维持Cursor的Pro试用状
 6、1.0.2版本已经支持重置时新加入阻止编辑器更新的功能
 7、1.0.3版本解决大家邮箱问题，新加入稳定邮箱获取的功能
 交流群：
-![qrcode_1749527543642](https://github.com/user-attachments/assets/65b4cb62-b8ea-4c0d-ad7a-c83daea54eab)
+![qrcode_1749574974739](https://github.com/user-attachments/assets/07762963-e037-40e3-98ca-77a73a273672)
+
