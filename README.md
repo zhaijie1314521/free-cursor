@@ -11,20 +11,20 @@ Free-Cursor是一款小巧而强大的工具，专为重置和维持Cursor编辑
 三、使用方法  
 
 1.准备工作  
-&nbsp;&nbsp;Cursor在编辑器中退出当前账号  
-&nbsp;&nbsp;确保Cursor编辑器已完全关闭  
+&nbsp;&nbsp;&nbsp;&nbsp;在Cursor编辑器中退出当前账号  
+&nbsp;&nbsp;&nbsp;&nbsp;确保Cursor编辑器已完全关闭  
 2.下载并运行  
-   下载最新版本的Free-Cursor压缩包  
-   解压后运行Free-Cursor.exe程序  
+&nbsp;&nbsp;&nbsp;&nbsp;下载最新版本的Free-Cursor压缩包  
+&nbsp;&nbsp;&nbsp;&nbsp;解压后运行Free-Cursor.exe程序  
 3.操作步骤  
-   点击"强力卸载"按钮彻底卸载当前编辑器（确保卸载干净）  
-   重新下载并安装最新版本的Cursor编辑器  
-   点击"重置"按钮执行重置操作  
+&nbsp;&nbsp;&nbsp;&nbsp;点击"强力卸载"按钮彻底卸载当前编辑器（确保卸载干净）  
+&nbsp;&nbsp;&nbsp;&nbsp;重新下载并安装最新版本的Cursor编辑器  
+&nbsp;&nbsp;&nbsp;&nbsp;点击"重置"按钮执行重置操作  
    
 四、账号处理  
 
-   方案一：使用固定邮箱（推荐）  
-     使用能够接收验证码的稳定邮箱注册Cursor  
+&nbsp;&nbsp;&nbsp;&nbsp;方案一：使用固定邮箱（推荐）  
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使用能够接收验证码的稳定邮箱注册Cursor  
      重启编辑器后即可使用Pro试用功能  
    方案二：已有账号处理  
      访问Cursor官网删除现有账号  
