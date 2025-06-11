@@ -1,5 +1,4 @@
 一、Free-Cursor  
-
 Free-Cursor是一款小巧而强大的工具，专为重置和维持Cursor编辑器的Pro试用状态而设计。
 二、主要特点：\n
 1、简单易用：只需点击几下按钮，即可重置Cursor的试用状态\n
