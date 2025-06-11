@@ -11,8 +11,8 @@ Free-Cursor是一款小巧而强大的工具，专为重置和维持Cursor编辑
 三、使用方法  
 
 1.准备工作  
-   在Cursor编辑器中退出当前账号  
-   确保Cursor编辑器已完全关闭  
+&nbsp;&nbsp;Cursor在编辑器中退出当前账号  
+&nbsp;&nbsp;确保Cursor编辑器已完全关闭  
 2.下载并运行  
    下载最新版本的Free-Cursor压缩包  
    解压后运行Free-Cursor.exe程序  
