@@ -23,26 +23,26 @@ Free-Cursor是一款小巧而强大的工具，专为重置和维持Cursor编辑
    
 四、账号处理  
 
-&nbsp;&nbsp;&nbsp;&nbsp;方案一：使用固定邮箱（推荐）  
-     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;使用能够接收验证码的稳定邮箱注册Cursor  
-     重启编辑器后即可使用Pro试用功能  
-   方案二：已有账号处理  
-     访问Cursor官网删除现有账号  
-     然后再重新注册一个新账号  
-     重启编辑器后即可使用Pro试用功能  
+方案一：使用固定邮箱（推荐）  
+&nbsp;&nbsp;&nbsp;&nbsp;使用能够接收验证码的稳定邮箱注册Cursor  
+&nbsp;&nbsp;&nbsp;&nbsp;重启编辑器后即可使用Pro试用功能  
+方案二：已有账号处理  
+&nbsp;&nbsp;&nbsp;&nbsp;访问Cursor官网删除现有账号  
+&nbsp;&nbsp;&nbsp;&nbsp;然后再重新注册一个新账号  
+&nbsp;&nbsp;&nbsp;&nbsp;重启编辑器后即可使用Pro试用功能  
 五、软件特色  
 
-   安全可靠：不会对系统造成任何损害，不包含恶意代码  
-   定期更新：持续更新以适配Cursor编辑器的最新版本  
-   完全免费：从发布至今完全免费  
+&nbsp;&nbsp;&nbsp;&nbsp;安全可靠：不会对系统造成任何损害，不包含恶意代码  
+&nbsp;&nbsp;&nbsp;&nbsp;定期更新：持续更新以适配Cursor编辑器的最新版本  
+&nbsp;&nbsp;&nbsp;&nbsp;完全免费：从发布至今完全免费  
    
 注意事项：  
-本软件目前仅支持Windows系统，Mac和Linux版本正在开发中  
-使用前请确保已完全退出Cursor编辑器账号  
-推荐使用稳定的邮箱服务进行注册  
+&nbsp;&nbsp;&nbsp;&nbsp;本软件目前仅支持Windows系统，Mac和Linux版本正在开发中  
+&nbsp;&nbsp;&nbsp;&nbsp;使用前请确保已完全退出Cursor编辑器账号  
+&nbsp;&nbsp;&nbsp;&nbsp;推荐使用稳定的邮箱服务进行注册  
 
 免责声明：  
-本项目仅供学习交流使用，请勿将其用于商业用途。使用本项目造成的任何后果，由使用者自行承担。开发者不对使用本软件可能导致的任何问题负责。  
+&nbsp;&nbsp;&nbsp;&nbsp;本项目仅供学习交流使用，请勿将其用于商业用途。使用本项目造成的任何后果，由使用者自行承担。开发者不对使用本软件可能导致的任何问题负责。  
 
 交流群：![qrcode_1749680164482](https://github.com/user-attachments/assets/1fe25667-c072-442e-bb3a-3494801f61e6)
 
