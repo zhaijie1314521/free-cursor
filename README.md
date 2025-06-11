@@ -8,6 +8,7 @@ Free-Cursor是一个小巧的工具，用于重置和维持Cursor的Pro试用状
 声明：
 本项目只是供学习交流使用，请勿将其用于商业用途。
 本项目不承担任何法律责任，使用本项目造成的任何后果，由使用者自行承担
-交流群：![qrcode_1749574974739](https://github.com/user-attachments/assets/08100ee0-9f27-4f7a-93b2-1e7e8bd0e75a)
+交流群：![qrcode_1749680164482](https://github.com/user-attachments/assets/1fe25667-c072-442e-bb3a-3494801f61e6)
+
 
 
