@@ -44,7 +44,8 @@ Free-Cursor是一款小巧而强大的工具，专为重置和维持Cursor编辑
 免责声明：  
 &nbsp;&nbsp;&nbsp;&nbsp;本项目仅供学习交流使用，请勿将其用于商业用途。使用本项目造成的任何后果，由使用者自行承担。开发者不对使用本软件可能导致的任何问题负责。  
 
-交流群：![qrcode_1749680164482](https://github.com/user-attachments/assets/1fe25667-c072-442e-bb3a-3494801f61e6)
+交流群：
+![qrcode_1750121303330](https://github.com/user-attachments/assets/b6fb0652-5a38-4bec-a89f-fb925b78e6c8)
 
 
 
